@@ -4,7 +4,8 @@ Este projeto tem como objetivo aprender e mostrar algumas tecnicas utilizando Nu
 
 ## 📁 Estrutura do Projeto
 
-- `data/`: arquivos CSV ou Excel usados
+- arquivos CSV ou Excel
+- URL usado 'https://raw.githubusercontent.com/DevLucasMelloo/ProjetoNumpy/refs/heads/main/apples_ts.csv'
 
 ## ⚙️ Tecnologias utilizadas
 
